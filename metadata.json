@@ -1,0 +1,6 @@
+{
+  "name": "SPACE SHOOTER ODYSSEY",
+  "description": "Production-grade space combat arcade game with 50 data-driven missions, 5 epic boss battles, ship upgrades, and VELoop rewarded-ad economy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
